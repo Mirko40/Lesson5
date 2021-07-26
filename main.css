@@ -1,0 +1,60 @@
+body {
+    background: #121116;
+}
+header{
+        margin-top: 120px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+}
+.text1{
+    margin-top: 51px;
+    font-size:20px;
+    text-align: center;
+    letter-spacing: 1px;
+color: #ffffff;
+font-weight: 400;
+font-family: "Open Sans";
+}
+.line{
+    margin-top: 20px; 
+    border: 1px solid #ffffff;
+    width: 230px;
+    background-color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+}
+.facebook {
+    margin-top:20px;
+    margin-left: 886px;
+    display:inline-block;
+    }
+    .tweter {
+        margin-top:21px;
+        margin-left: 34px;
+        display:inline-block;
+        }
+        .google {
+            margin-top:22px;
+            margin-left: 34px;
+            display:inline-block;
+            } 
+            .dribble {
+                margin-top:21px;
+                margin-left: 24px;
+                display:inline-block;
+                }     
+footer{
+    color: #ffffff;
+    text-align: center;
+    margin-top:87px;
+    text-transform: capitalize;
+    font-size: 15px;
+    color: #ffffff;
+font-weight: 600;
+font-family: "Open Sans";
+    
+}
+span {
+    color:#01BBED;
+}
