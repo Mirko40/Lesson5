@@ -24,26 +24,7 @@ font-family: "Open Sans";
     margin-left: auto;
     margin-right: auto;
 }
-.facebook {
-    margin-top:20px;
-    margin-left: 886px;
-    display:inline-block;
-    }
-    .tweter {
-        margin-top:21px;
-        margin-left: 34px;
-        display:inline-block;
-        }
-        .google {
-            margin-top:22px;
-            margin-left: 34px;
-            display:inline-block;
-            } 
-            .dribble {
-                margin-top:21px;
-                margin-left: 24px;
-                display:inline-block;
-                }     
+     
 footer{
     color: #ffffff;
     text-align: center;
@@ -53,8 +34,24 @@ footer{
     color: #ffffff;
 font-weight: 600;
 font-family: "Open Sans";
-    
 }
+.social {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+        
+}     
+.facebook {
+    margin-right:34px;
+    
+    }
+    .tweter {
+        margin-right:34px;
+        }
+        .google {
+            margin-right:34px;
+            } 
+       
 span {
     color:#01BBED;
 }
